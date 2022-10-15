@@ -1,0 +1,20 @@
+    /*/* navbar 
+    .navbar ul{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+        .navbar ul li{
+            font-size: 0.8rem; 
+        }
+
+        /* Services section 
+    #services{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+    }
+
+    /*.row{       
+        flex-direction: column;
+        align-items: center;
+    }  */
